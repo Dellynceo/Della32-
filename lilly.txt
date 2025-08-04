@@ -4,3 +4,5 @@ Mcjodel
 Nanyongo
 add the alias of the repo
 git remote add https://github.com/Dellynceo/Della32-.git
+You must practice pull request
+Della is making progress
